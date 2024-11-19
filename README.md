@@ -1,6 +1,4 @@
-Sure, here is a README file for your Contact List Application:
 
----
 
 # Contact List Application
 
@@ -148,6 +146,3 @@ You can test the API using Insomnia by performing the following operations:
 
 This project provides an easy-to-use application for managing a contact list with the capability to create, read, update, and delete contacts. The application is built with Node.js, Express, and a simple frontend using HTML, CSS, and JavaScript, and it includes basic validation and error handling.
 
----
-
-Let me know if you need any more details or further customization! 😊
